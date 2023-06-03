@@ -1,0 +1,1 @@
+Basic Discord Bot created in primarily in 2021 to help a organize a club on campus.  Pushed to GIT recently so future changes/updates to will be more mainstream and easier to revert. 
