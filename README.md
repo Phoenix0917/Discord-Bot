@@ -1,1 +1,1 @@
-Basic Discord Bot created in primarily in 2021 to help a organize a club on campus.  Pushed to GIT recently so future changes/updates to will be more mainstream and easier to revert. 
+Basic Discord Bot created primarily back in 2021 to help a organize a club on campus.  Code has been pushed to GIT recently so future changes/updates will be more mainstream and easier to revert. Discord bot is currently hosted on Heroku.
